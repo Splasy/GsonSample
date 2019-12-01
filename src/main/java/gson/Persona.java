@@ -4,7 +4,8 @@ public class Persona {
 
 	
 		
-		String nombre, apellidos;
+		String  nombre;
+		String apellidos;
 		int edad;
 		public String getNombre() {
 			return nombre;
